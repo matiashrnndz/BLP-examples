@@ -1,0 +1,171 @@
+lyle writes value 10 to lobj
+The current state is:
+hobj has value: 0
+mobj has value: 0
+lobj has value: 10
+hal has recently read: 0
+moe has recently read: 0
+lyle has recently read: 0
+
+hal writes value 90 to hobj
+The current state is:
+hobj has value: 90
+mobj has value: 0
+lobj has value: 10
+hal has recently read: 0
+moe has recently read: 0
+lyle has recently read: 0
+
+Bad Instruction
+The current state is:
+hobj has value: 90
+mobj has value: 0
+lobj has value: 10
+hal has recently read: 0
+moe has recently read: 0
+lyle has recently read: 0
+
+lyle reads lobj
+The current state is:
+hobj has value: 90
+mobj has value: 0
+lobj has value: 10
+hal has recently read: 0
+moe has recently read: 0
+lyle has recently read: 10
+
+hal reads lobj
+The current state is:
+hobj has value: 90
+mobj has value: 0
+lobj has value: 10
+hal has recently read: 10
+moe has recently read: 0
+lyle has recently read: 10
+
+lyle writes value 20 to lobj
+The current state is:
+hobj has value: 90
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 10
+moe has recently read: 0
+lyle has recently read: 10
+
+Bad Instruction
+The current state is:
+hobj has value: 90
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 10
+moe has recently read: 0
+lyle has recently read: 10
+
+hal reads hobj
+The current state is:
+hobj has value: 90
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 90
+moe has recently read: 0
+lyle has recently read: 10
+
+lyle writes value 150 to hobj
+The current state is:
+hobj has value: 150
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 90
+moe has recently read: 0
+lyle has recently read: 10
+
+hal reads hobj
+The current state is:
+hobj has value: 150
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 150
+moe has recently read: 0
+lyle has recently read: 10
+
+lyle reads lobj
+The current state is:
+hobj has value: 150
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 150
+moe has recently read: 0
+lyle has recently read: 20
+
+lyle reads hobj
+The current state is:
+hobj has value: 150
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 150
+moe has recently read: 0
+lyle has recently read: 0
+
+lyle writes value 50 to hobj
+The current state is:
+hobj has value: 50
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 150
+moe has recently read: 0
+lyle has recently read: 0
+
+Bad Instruction
+The current state is:
+hobj has value: 50
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 150
+moe has recently read: 0
+lyle has recently read: 0
+
+Bad Instruction
+The current state is:
+hobj has value: 50
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 150
+moe has recently read: 0
+lyle has recently read: 0
+
+hal reads hobj
+The current state is:
+hobj has value: 50
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 50
+moe has recently read: 0
+lyle has recently read: 0
+
+Bad Instruction
+The current state is:
+hobj has value: 50
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 50
+moe has recently read: 0
+lyle has recently read: 0
+
+hal writes value 200 to hobj
+The current state is:
+hobj has value: 200
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 50
+moe has recently read: 0
+lyle has recently read: 0
+
+Bad Instruction
+The current state is:
+hobj has value: 200
+mobj has value: 0
+lobj has value: 20
+hal has recently read: 50
+moe has recently read: 0
+lyle has recently read: 0
+

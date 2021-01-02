@@ -1,0 +1,15 @@
+Procedimiento de corrida
+
+En la carpeta: ..\ASSI_Obl\SecureSystemWithCovertChannel\inputs
+Colocar el archivo con el mensaje.
+Colocar el archivo con la secuencia.
+
+Desde la línea de comandos se debe posicionar en la carpeta: ..\ASSI_Obl\SecureSystemWithCovertChannel\
+
+A continuación, se debe ejecutar el siguiente comando poniendo los nombres (junto con sus extensiones) al final del comando. 
+Ejemplo a continuación:
+java -jar SecureSystemWithCovertChannel.jar mensaje.txt secuencia.txt
+
+En la carpeta: ..\ASSI_Obl\SecureSystemWithCovertChannel\outputs
+Se verá el archivo log.txt, el cual mostrará en tiempo real las instrucciones que se van ejecutando en el procedimiento.
+Se verá el archivo recibido.txt, el cual mostrará en tiempo real los caracteres que lyle va recibiendo.

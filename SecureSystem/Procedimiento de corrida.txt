@@ -1,0 +1,16 @@
+Procedimiento de corrida
+
+En la carpeta: ..\ASSI_Obl\SecureSystem\inputs
+
+Colocar el archivo con la lista de instrucciones.
+
+Desde la línea de comandos se debe posicionar en la carpeta: ..\ASSI_Obl\SecureSystem\
+
+A continuación, se debe ejecutar el siguiente comando poniendo el nombre del archivo (junto con su extensión) al final del comando. 
+
+Ejemplo a continuación:
+java -jar SecureSystem.jar InstructionList.txt
+
+En la carpeta: ..\ASSI_Obl\SecureSystem\outputs
+
+Se verá el archivo log.txt, el cual mostrará en tiempo real las instrucciones y el estado que va quedando en el procedimiento.

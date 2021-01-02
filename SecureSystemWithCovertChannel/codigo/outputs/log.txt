@@ -1,0 +1,54 @@
+RUN hal
+CREATE hal obj
+RUN hal
+RUN hal
+CREATE lyle obj
+WRITE lyle obj 1
+READ lyle obj
+DESTROY lyle obj
+RUN lyle
+CREATE lyle obj
+WRITE lyle obj 1
+READ lyle obj
+DESTROY lyle obj
+RUN lyle
+CREATE lyle obj
+WRITE lyle obj 1
+READ lyle obj
+DESTROY lyle obj
+RUN lyle
+CREATE lyle obj
+WRITE lyle obj 1
+READ lyle obj
+DESTROY lyle obj
+RUN lyle
+RUN hal
+RUN hal
+CREATE lyle obj
+WRITE lyle obj 1
+READ lyle obj
+DESTROY lyle obj
+RUN lyle
+RUN hal
+CREATE hal obj
+CREATE lyle obj
+WRITE lyle obj 1
+READ lyle obj
+DESTROY lyle obj
+RUN lyle
+CREATE lyle obj
+WRITE lyle obj 1
+READ lyle obj
+DESTROY lyle obj
+RUN lyle
+CREATE lyle obj
+WRITE lyle obj 1
+READ lyle obj
+DESTROY lyle obj
+RUN lyle
+RUN hal
+CREATE hal obj
+CREATE lyle obj
+WRITE lyle obj 1
+READ lyle obj
+DESTROY lyle obj
