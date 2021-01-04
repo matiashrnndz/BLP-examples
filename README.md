@@ -1,6 +1,13 @@
 # BLP-examples
 
-[Project done in Dec 2020]
+## Details
+
+- Date: Dec 2020
+- Developed by: Esteban Muzio, Gianfranco Drago, Matias Hernández
+- Language: Java
+- Subject: Aspectos de Seguridad de Sistemas de Información
+
+## Introduction
 
 El propósito de los sistemas es poder entender de manera práctica las diferencias que
 existen en utilizar un sistema sin ningún nivel de seguridad (InsecureSystem) en
